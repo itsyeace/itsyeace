@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsyeace
+- 👋 Hi, I’m Dharvinran Vijayasekaran
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning gaming technology course
 - 💞️ I’m looking to collaborate on ...
